@@ -8,8 +8,7 @@ Instalador de office , activador de windows y office
 
 Atajo de teclas 
 
-Windows + I
-Privacidad y seguridad 
+Windows + I > Privacidad y seguridad 
 Proteccion contra cirus y amenazas
 
 configuracion de antivirus y protecccion contra 
