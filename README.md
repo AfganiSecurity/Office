@@ -9,7 +9,7 @@ Instalador de office , activador de windows y office
 Atajo de teclas 
 
 Windows + I > Privacidad y seguridad 
-Proteccion contra cirus y amenazas
+Proteccion contra virus y amenazas
 
 configuracion de antivirus y protecccion contra 
 amenazas > Administrar la configuracion 
